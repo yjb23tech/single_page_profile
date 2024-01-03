@@ -1,0 +1,17 @@
+* body {
+    background-color: whitesmoke;
+    color: steelblue;
+}
+
+.personal-profile-main > img {
+    height: 204.8px;
+    width: 159.4px; 
+    border-radius: 15px;
+    border: black solid 2px;
+}
+
+.personal-profile-sub {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
