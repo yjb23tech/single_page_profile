@@ -5,6 +5,7 @@ const App = () => {
     return (
         <div>
             <SinglePageProfile />
+            <h1>Ant Man</h1>
         </div>
     )
 }
