@@ -6,6 +6,7 @@ const App = () => {
         <div>
             <SinglePageProfile />
             <h1>Ant Man</h1>
+            <h2>Warya</h2>
         </div>
     )
 }
