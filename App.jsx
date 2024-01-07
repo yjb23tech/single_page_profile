@@ -7,7 +7,7 @@ const App = () => {
             <SinglePageProfile />
             <h1>Ant Man</h1>
             <h2>Warya</h2>
-            <h3>Warya Warya</h3>
+            <h3>Warya Warya AJB Holdings</h3>
         </div>
     )
 }
